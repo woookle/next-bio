@@ -1,6 +1,6 @@
 # 🎯 Next-bio
 
-Это мой тестовый проект, созданный на Next.js 15 для понимания современных концепций React-фреймворков. Простой сайт-визитка, который показывает мой профиль разработчика
+Это мой тестовый проект, созданный на Next.js 16 для понимания современных концепций React-фреймворков. Простой сайт-визитка, который показывает мой профиль разработчика
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react)
